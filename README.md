@@ -1,2 +1,2 @@
 # MusiikkiSoitin-Releases
-MusiikkiSoitin julkaisut (MSI + autopaivitys). Lahdekoodi: Velkavankeus/MusiikkiSoitin
+MusiikkiSoitin julkaisut. Lähdekoodi: Velkavankeus/MusiikkiSoitin
